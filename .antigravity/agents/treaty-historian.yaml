@@ -1,0 +1,10 @@
+agent:
+  id: treaty-historian
+  jurisdiction: Uruguay
+  iso: UY
+  status: ACTIVE_SCAFFOLD
+  role: Treaty & Diplomatic History Analysis
+  guardrails:
+    - no_fabricated_citations
+    - primary_source_verification_required
+    - legal_review_required_before_filing

@@ -1,0 +1,13 @@
+{
+  "url": "https://data.worldbank.org/country",
+  "final_url": "\"https://data.worldbank.org/country\"",
+  "status": 200,
+  "title": "\"Countries | Data\"",
+  "bytes": 100179,
+  "sha256": "97e51424fe8337074ef328d6a8bfe0832ccabb65ce83eaf47d339b62d108ea27",
+  "captured_at": "2026-11-21T18:46:08.313068Z",
+  "custodian": "OpenCode/browser-fallback",
+  "country": "US_UY_URUGUAY",
+  "iso": "UY",
+  "provenance": "browser-rendered outerHTML; WARC-like metadata sidecar; PUBLIC_CAPTURE_UNAUTHENTICATED; not certified original"
+}

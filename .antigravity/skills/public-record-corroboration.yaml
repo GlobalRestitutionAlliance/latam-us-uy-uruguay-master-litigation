@@ -1,0 +1,9 @@
+skill:
+  id: public-record-corroboration
+  jurisdiction: Uruguay
+  iso: UY
+  status: ACTIVE_SCAFFOLD
+  description: Public Record Corroboration
+  guardrails:
+    - no_fabricated_citations
+    - primary_source_verification_required

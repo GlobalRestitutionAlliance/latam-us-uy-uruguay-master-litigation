@@ -1,0 +1,9 @@
+skill:
+  id: chain-of-custody-audit
+  jurisdiction: Uruguay
+  iso: UY
+  status: ACTIVE_SCAFFOLD
+  description: Chain Of Custody Audit
+  guardrails:
+    - no_fabricated_citations
+    - primary_source_verification_required
