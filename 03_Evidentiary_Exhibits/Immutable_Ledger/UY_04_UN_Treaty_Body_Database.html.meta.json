@@ -37,5 +37,10 @@
     "SERVER": "cloudflare",
     "cf-cache-status": "DYNAMIC",
     "CF-RAY": "a5e1c73c1fb83f1e-MIA"
-  }
+  },
+  "http_status": 200,
+  "fetched_at": "2026-11-21T18:29:59.141539Z",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED"
 }
